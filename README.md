@@ -46,7 +46,7 @@ Ready to unlock the full potential of offline YouTube viewing? Grab your favorit
 
 ## **Resources**
 
-- **Pytube Documentation**: [Pytube GitHub](https://github.com/pytube/pytube)
+- **Pytube Documentation**: [Pytube Docs](https://pytube.io/en/latest/)
 - **MoviePy Documentation**: [MoviePy Docs](https://zulko.github.io/moviepy/)
 - **Tkinter Tutorial**: [Tkinter Docs](https://docs.python.org/3/library/tkinter.html)
 - **Regular Expressions**: [Regex101](https://regex101.com/) for practice and regex patterns testing.
