@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import filedialog
 from check_youtube_url import is_valid_url
 from tkinter import messagebox
-from pytube import YouTube
+from pytubefix import YouTube
 from moviepy.editor import AudioFileClip
 import os
 
